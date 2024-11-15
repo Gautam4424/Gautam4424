@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam4424&label=Profile%20views&color=0e75b6&style=flat" alt="gautam4424" /> </p>
 
-- 🌱 I’m currently enhancing my skills in **MERN stack development**.
+- 🌱 I'm a DevOps enthusiast currently enhancing my skills in **MERN stack development**.
 
 - 👨‍💻 Portfolio Link [comming soon](comming soon)
 
